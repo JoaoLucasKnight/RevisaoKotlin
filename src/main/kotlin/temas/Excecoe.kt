@@ -1,4 +1,4 @@
-package br.com.nf3.revisao.temas
+package nf3.temas
 
 class Excecoe {
 }
