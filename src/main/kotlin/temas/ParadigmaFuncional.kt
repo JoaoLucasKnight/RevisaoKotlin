@@ -1,4 +1,4 @@
-package br.com.nf3.revisao.temas
+package nf3.temas
 
 /*
     * Paradigma Funcional
@@ -61,7 +61,7 @@ class ParadigmaFuncional {
     val funcaoAnonima2 = fun(a: Int, b: Int): Int {
        return a + b
     }
-    val funcaoAnonima3 = fun(a: Int, b: Int): Int = a +b
+    val funcaoAnonima3 = fun(a: Int, b: Int): Int = a + b
 
 
     // > Uma função anônima é qualquer função sem nome.
